@@ -132,9 +132,9 @@ letter-spacing:-2px;
 
 .projects {
 
-display:grid;
-grid-template-columns:1fr;
-gap:50px;
+display:flex;
+flex-direction:column;
+gap:60px;
 
 }
 
